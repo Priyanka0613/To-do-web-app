@@ -2,7 +2,7 @@
 
 <!-- screenshots here -->
 
-![](./screenshot.png)
+
 
 
 ## Overview
