@@ -4,7 +4,6 @@
 
 ![](./screenshot.png)
 
-A challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
 ## Overview
 
